@@ -1,1 +1,1 @@
-# python_code
+Hangman game in Python
